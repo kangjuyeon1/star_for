@@ -1,5 +1,3 @@
-print("*")
-print("**")
-print("***")
-print("****")
-print("*****")
+n = 6
+for i in range(1,n):
+    print("*"*i)
